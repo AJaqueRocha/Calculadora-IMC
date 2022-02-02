@@ -1,0 +1,3 @@
+# Calculadora-IMC
+
+Treinando JavaScript.
