@@ -1,3 +1,3 @@
 # Calculadora-IMC
 
-Treinando JavaScript.
+Calculadora do Índice de Massa Corpórea para treinar JavaScript.
